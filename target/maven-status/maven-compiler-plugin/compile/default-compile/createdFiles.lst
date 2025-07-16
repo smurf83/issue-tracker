@@ -1,0 +1,9 @@
+com/example/issuetracker/model/Issue.class
+com/example/issuetracker/config/OpenApiConfig.class
+com/example/issuetracker/model/User$UserBuilder.class
+com/example/issuetracker/repository/IssueRepository.class
+com/example/issuetracker/model/Status.class
+com/example/issuetracker/model/User.class
+com/example/issuetracker/model/Priority.class
+com/example/issuetracker/model/Issue$IssueBuilder.class
+com/example/issuetracker/model/Role.class
